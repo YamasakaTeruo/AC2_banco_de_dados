@@ -1,8 +1,8 @@
 # EXERCICIO TABELA PRODUTOS AC2
 ## DESCRIÇÃO
 
-Exercicio dividido em 3 etapas. 
-Contrução de tabela e geração de relatorios.
+Exercício dividido em 3 etapas. 
+Construção de tabela e geração de relatórios.
 
 ## ETAPA.1
 
