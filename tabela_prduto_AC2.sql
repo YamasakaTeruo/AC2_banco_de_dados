@@ -28,7 +28,7 @@ SELECT COUNT(*)AS total_produtos FROM tab_prod;
 /*Exibe a média da coluna "preco" como "preco_medio" da tabela indicada.*/
 SELECT AVG(preco) AS preco_medio FROM tab_prod;
 
-/*Exibe o calculo do preço medio como "preco_medio" dos produtos agrupados por "perecivel" na tabela indicada.*/
+/*Exibe o calculo do preço medio da coluna "preco" como "preco_medio" dos produtos agrupados por "perecivel" na tabela indicada.*/
 SELECT perecivel, AVG(preco) AS preco_medio
 FROM tab_prod
 GROUP BY perecivel;
@@ -38,7 +38,7 @@ SELECT nome, AVG(preco) AS preco_medio
 FROM tab_prod
 GROUP BY nome;
 
-/*Exibe a media dos preços como "media_preco" e soma do estoque como "total_estoque" da indicada*/
+/*Exibe a media dos preços como "media_preco" e soma da coluna "estoque" como "total_estoque" da tabela indicada*/
 SELECT AVG(preco) AS media_precos, SUM(estoque) AS total_estoque
 FROM tab_prod;
 
