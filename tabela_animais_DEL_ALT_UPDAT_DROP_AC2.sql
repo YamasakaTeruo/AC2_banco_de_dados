@@ -9,7 +9,7 @@ CREATE TABLE especies (
 INSERT INTO especies (nome, descricao) VALUES
 ('gato', 'Animal doméstico com quatro patas e pelagem'),
 ('cao', 'Animal de estimação leal e amigável'),
-('passaro', 'Animal alado que pode voar');
+('passaro', 'Animal alado que pode ou não voar');
 
 -- Criação da tabela de Animais
 CREATE TABLE animais (
