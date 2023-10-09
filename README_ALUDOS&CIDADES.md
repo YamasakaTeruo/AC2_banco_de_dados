@@ -1,6 +1,6 @@
 # Alunos e Cidades (INNER JOIN)
 ## DESCRIÇÃO
-Atividade com foco da ultiltilização da operacão INNER JOIN.
+Atividade com foco na ultiltilização da operacão INNER JOIN.
 Para combinar registros de duas ou mais tabelas
 
 ## EXERCÍCIO
